@@ -18,4 +18,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arhaan-siddiquee&show_icons=true&locale=en&layout=compact" alt="arhaan-siddiquee" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arhaan-siddiquee&show_icons=true&locale=en" alt="arhaan-siddiquee" /></p>

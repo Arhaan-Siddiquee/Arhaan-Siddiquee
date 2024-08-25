@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arhaan-siddiquee&label=Profile%20views&color=0e75b6&style=flat" alt="arhaan-siddiquee" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arhaan-siddiquee" alt="arhaan-siddiquee" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arhaan-Siddiquee&no-bg=true" alt="arhaan-siddiquee" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

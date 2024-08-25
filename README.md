@@ -21,5 +21,4 @@
 <p><img align="left" src="https://gitmystat.vercel.app/top?theme=dark&username=Arhaan-Siddiquee&layout=bar" alt="arhaan-siddiquee" /></p>
 
 <p>&nbsp;<img align="center" src="https://gitmystat.vercel.app/user?theme=dark&username=Arhaan-Siddiquee" alt="arhaan-siddiquee" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arhaan-siddiquee&" alt="arhaan-siddiquee" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Arhaan-Siddiquee&theme=transparent&ring=FF7A07&fire=EB5454" alt="GitHub Streak" /></a>

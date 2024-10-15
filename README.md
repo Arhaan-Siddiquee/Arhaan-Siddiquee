@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arhaan-Siddiquee&no-bg=true" alt="arhaan-siddiquee" /></a> </p>
 
+[![An image of @arhaansiddiquee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arhaansiddiquee)](https://holopin.io/@arhaansiddiquee)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arhaansiddiquee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arhaansiddiquee" height="30" width="40" /></a>

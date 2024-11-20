@@ -22,7 +22,10 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=c,cpp,css,autocad,figma,flask,git,html,java,js,linux,matlab,mongodb,mysql,octave,php,py,react,tailwind" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,css,autocad,figma,flask,git,html,java,js,linux,matlab,mongodb,mysql,octave,php,py,react,tailwind"/>
+</p>
+
 
 ![download](https://github.com/user-attachments/assets/dfc5137f-a58b-4ab3-a446-4b882e1f1725)
 
@@ -35,3 +38,9 @@
 <p>&nbsp;<img align="left" src="https://gitmystat.vercel.app/user?theme=dark&username=Arhaan-Siddiquee" alt="arhaan-siddiquee" />
 <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=Arhaan-Siddiquee&theme=dark&card_width=350&background=EB545400" alt="GitHub Streak"/></a></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arhaan-Siddiquee&no-bg=true" alt="arhaan-siddiquee" /></a> </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e91cd367-6da9-4144-bab0-1004f1c785bc" />
+</p>
+
+

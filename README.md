@@ -39,7 +39,7 @@
 <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=Arhaan-Siddiquee&theme=dark&card_width=350&background=EB545400" alt="GitHub Streak"/></a></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arhaan-Siddiquee&no-bg=true" alt="arhaan-siddiquee" /></a> </p>
 
-[![Arhaan_Siddiquee's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Arhaan_Siddiquee&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e91cd367-6da9-4144-bab0-1004f1c785bc" />

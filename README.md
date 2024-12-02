@@ -18,8 +18,6 @@
 <a href="https://auth.geeksforgeeks.org/user/siddiqueubn9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="siddiqueubn9" height="30" width="40" /></a>
 </p>
 
-![fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels](https://github.com/user-attachments/assets/4172f02e-b28c-4fe7-a04c-553eab7becd1)
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -39,10 +37,9 @@
 <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=Arhaan-Siddiquee&theme=dark&card_width=350&background=EB545400" alt="GitHub Streak"/></a></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arhaan-Siddiquee&no-bg=true" alt="arhaan-siddiquee" /></a> </p>
 
+![fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels](https://github.com/user-attachments/assets/4172f02e-b28c-4fe7-a04c-553eab7becd1)
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e91cd367-6da9-4144-bab0-1004f1c785bc" />
-</p>
+
 
 

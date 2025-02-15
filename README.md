@@ -59,10 +59,9 @@
 
 [![An image of @arhaansiddiquee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arhaansiddiquee)](https://holopin.io/@arhaansiddiquee)
 
+<h3 align="left">Leetcode Stats:</h3>
 
-
-![fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels](https://github.com/user-attachments/assets/4172f02e-b28c-4fe7-a04c-553eab7becd1)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/ArhaanSiddiquee?theme=dark&font=Rubik&ext=heatmap)
 
 
 

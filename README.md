@@ -61,6 +61,11 @@
 
 <h3 align="left">Leetcode Stats:</h3>
 
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=ArhaanSiddiquee&theme=dark&border=border&animated=true)
+
+
+
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ArhaanSiddiquee?theme=dark&font=Rubik&ext=heatmap)
 
 

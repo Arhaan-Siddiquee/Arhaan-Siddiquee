@@ -49,24 +49,55 @@
 
 <h3 align="left">Git Stats:</h3>
 
-<p><img align="left" src="https://gitmystat.vercel.app/top?theme=dark&username=Arhaan-Siddiquee&layout=bar" alt="arhaan-siddiquee" /></p>
+<!-- GitHub Streaks Full Row -->
+<table width="100%">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats-kv.vercel.app?user=Arhaan-Siddiquee&theme=tokyonight_duo&hide_border=true" width="100%" alt="GitHub Streak Stats" />
+    </td>
+  </tr>
 
-<p>&nbsp;<img align="left" src="https://gitmystat.vercel.app/user?theme=dark&username=Arhaan-Siddiquee" alt="arhaan-siddiquee" />
-<a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=Arhaan-Siddiquee&theme=dark&card_width=350&background=EB545400" alt="GitHub Streak"/></a></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arhaan-Siddiquee&no-bg=true" alt="arhaan-siddiquee" /></a> </p>
+  <!-- Stats + Top Languages Side by Side -->
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-kv.vercel.app/api?username=Arhaan-Siddiquee&theme=github_dark&show_icons=true&count_private=true&hide_border=true" width="95%" alt="Arhaan's GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=Arhaan-Siddiquee&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" width="95%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+
+<h2></h2>
+
+<!-- Activity Graph -->
+<p align="center">
+    <img src="https://github-readme-activity-graph-kv.vercel.app/graph?username=Arhaan-Siddiquee&theme=react-dark&color=38bdf8&line=38bdf8&hide_border=true&hide_title=false&area=true" width="100%" alt="activity graph">
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Arhaan-Siddiquee&no-bg=true&row=1&margin-w=10" alt="Arhaan's Trophies" />
+  </a>
+</p>
 
 <h3 align="left">Badges:</h3>
 
 [![An image of @arhaansiddiquee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arhaansiddiquee)](https://holopin.io/@arhaansiddiquee)
 
 <h3 align="left">Leetcode Stats:</h3>
-
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=ArhaanSiddiquee&theme=dark&border=border&animated=true)
-
-
-
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/ArhaanSiddiquee?theme=dark&font=Rubik&ext=heatmap)
+<table>
+  <tr>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/ArhaanSiddiquee?theme=dark&font=Rubik&ext=heatmap" alt="LeetCode Stats">
+    </td>
+    <td>
+      <img src="https://leetcode-badge-showcase.vercel.app/api?username=ArhaanSiddiquee&theme=dark&border=border&animated=true" alt="LeetCode Badges">
+    </td>
+  </tr>
+</table>
 
 
 

@@ -49,24 +49,25 @@
 
 <h3 align="left">Git Stats:</h3>
 
-<!-- GitHub Streaks Full Row -->
+
 <table width="100%">
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats-kv.vercel.app?user=Arhaan-Siddiquee&theme=tokyonight_duo&hide_border=true" width="100%" alt="GitHub Streak Stats" />
+      <img src="https://github-readme-stats-kv.vercel.app/api?username=Arhaan-Siddiquee&theme=github_dark&show_icons=true&count_private=true&hide_border=true" width="100%" alt="Arhaan's GitHub Stats" />
     </td>
   </tr>
-
-  <!-- Stats + Top Languages Side by Side -->
+  
+  <!-- Streak + Top Languages Side by Side -->
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-kv.vercel.app/api?username=Arhaan-Siddiquee&theme=github_dark&show_icons=true&count_private=true&hide_border=true" width="95%" alt="Arhaan's GitHub Stats" />
+      <img src="https://github-readme-streak-stats-kv.vercel.app?user=Arhaan-Siddiquee&theme=tokyonight_duo&hide_border=true" width="95%" alt="GitHub Streak Stats" />
     </td>
     <td align="center" width="50%">
       <img src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=Arhaan-Siddiquee&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" width="95%" alt="Top Languages" />
     </td>
   </tr>
 </table>
+
 
 
 <h2></h2>

@@ -57,7 +57,6 @@
     </td>
   </tr>
   
-  <!-- Streak + Top Languages Side by Side -->
   <tr>
     <td align="center" width="50%">
       <img src="https://github-readme-streak-stats-kv.vercel.app?user=Arhaan-Siddiquee&theme=tokyonight_duo&hide_border=true" width="95%" alt="GitHub Streak Stats" />
@@ -72,7 +71,6 @@
 
 <h2></h2>
 
-<!-- Activity Graph -->
 <p align="center">
     <img src="https://github-readme-activity-graph-kv.vercel.app/graph?username=Arhaan-Siddiquee&theme=react-dark&color=38bdf8&line=38bdf8&hide_border=true&hide_title=false&area=true" width="100%" alt="activity graph">
 </p>
@@ -86,7 +84,7 @@
 
 <h3 align="left">Badges:</h3>
 
-[![An image of @arhaansiddiquee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arhaansiddiquee)](https://holopin.io/@arhaansiddiquee)
+[![Holopin badges](https://holopin.me/arhaansiddiquee)](https://holopin.io/@arhaansiddiquee)
 
 <h3 align="left">Leetcode Stats:</h3>
 <table>

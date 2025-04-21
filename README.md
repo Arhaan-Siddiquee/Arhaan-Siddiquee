@@ -62,7 +62,7 @@
       <img src="https://github-readme-streak-stats-kv.vercel.app?user=Arhaan-Siddiquee&theme=tokyonight_duo&hide_border=true" width="95%" alt="GitHub Streak Stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=Arhaan-Siddiquee&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" width="95%" alt="Top Languages" />
+      <img src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=Arhaan-Siddiquee&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true&hide=python,C,Tcl" width="95%" alt="Top Languages" />
     </td>
   </tr>
 </table>

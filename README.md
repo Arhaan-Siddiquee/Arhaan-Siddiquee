@@ -5,7 +5,7 @@
 
 <p align="left">
 <ul align="left">
-  <li><b>I’m a Third Year Computer Science Engineering student at SRM University, Chennai</b>, with a strong interest in full-stack development and UI/UX design.</li>
+  <li><b>I’m a Third Year Computer Science Engineering student at SRM University, Chennai</b>, with a strong interest in full-stack development, Systems design and UI/UX. </li>
   <li>I work with <b>Golang, C++, JavaScript, and React</b> to build clean and scalable web applications while managing version control with Git and GitHub.</li>
   <li>I also focus on <b>data structures and algorithms</b> to improve problem-solving skills. For design, I use <b>Figma and Framer</b> to create smooth user experiences.</li>
   <li>Lately, I’ve been exploring <b>Web3, ML and Blockchain technologies</b> to keep up with the latest trends.</li>
